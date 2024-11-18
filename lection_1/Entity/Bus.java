@@ -1,7 +1,7 @@
-package Entity;
+package lection_1.Entity;
 
-import Abstract.AbstractStyleCar;
-import Interface.ICar;
+import lection_1.Abstract.AbstractStyleCar;
+import lection_1.Interface.ICar;
 
 public class Bus extends AbstractStyleCar implements ICar {
     private final int countWheel = 8;

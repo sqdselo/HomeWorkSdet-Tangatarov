@@ -1,6 +1,4 @@
-package Abstract;
-
-import java.sql.SQLOutput;
+package lection_1.Abstract;
 
 public class AbstractStyleCar {
     public static boolean IsTuning;

@@ -1,8 +1,7 @@
-import Abstract.AbstractStyleCar;
-import Entity.*;
+package lection_1;
 
-import java.sql.SQLOutput;
-import java.util.Arrays;
+import lection_1.Entity.*;
+
 import java.util.Random;
 
 public class Setup {
@@ -15,6 +14,6 @@ public class Setup {
         Bus bus = new Bus();
 
         bus.SpeedTest(10.0);
-
+        
     }
 }

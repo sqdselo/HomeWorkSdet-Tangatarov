@@ -1,4 +1,4 @@
-package Interface;
+package lection_1.Interface;
 
 import java.awt.*;
 

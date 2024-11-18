@@ -1,5 +1,5 @@
-package Entity;
-import Interface.IVisual;
+package lection_1.Entity;
+import lection_1.Interface.IVisual;
 import java.awt.*;
 
 public class Tractor extends Car implements IVisual{

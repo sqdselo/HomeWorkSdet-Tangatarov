@@ -1,5 +1,5 @@
-package Entity;
-import Interface.ICar;
+package lection_1.Entity;
+import lection_1.Interface.ICar;
 
 public class Car implements ICar{
     @Override
